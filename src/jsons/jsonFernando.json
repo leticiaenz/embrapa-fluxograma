@@ -1,0 +1,327 @@
+{
+  "idSimulation": "68ca096d-4702-496e-8284-fc5f827ecc7f",
+  "idSystem": 72,
+  "idModel": 18,
+  "simulationData": {
+    "ARROBA": 15,
+    "graph": {
+      "nodes": {},
+      "flows": {},
+      "root": "modelo_limpo",
+      "nodeOne": "modelo_limpo"
+    },
+    "parameters": {
+      "PESO_cerquilha_AREA": 23.89,
+      "CARCACA_cerquilha_AREA": 38.27,
+      "PRECO_cerquilha_AREA": 1726.83,
+      "AREA_PRODUCAO": 172.38,
+      "PRECO_ARROBA_cerquilha_AREA": 273.81,
+      "PRECO_PESO_cerquilha_RACAO": 54,
+      "DIA_REBANHO": 364,
+      "PESO_cerquilha_BEZERRAS": 2.31,
+      "CO2EQ_PESO_cerquilha_AREA": 31.23,
+      "CO2EQ_cerquilha_PRIMIPARAS": 1728.31,
+      "PRECO_ARROBA_cerquilha_PRIMIPARAS_PARIDAS": 2.31,
+      "PRECO_ARROBA_cerquilha_PRIMIPARA_PARIDA": 628.71,
+      "PRECO_PESO_cerquilha_BOVINOS": 12.34,
+      "PRECO_PESO_cerquilha_MATRIZES": 1234.14,
+      "PRECO_cerquilha_PRIMIPARA_PARIDA": 123.34,
+      "PRECO_PESO_cerquilha_MULTIPARAS": 82.91,
+      "PRECO_PESO_cerquilha_MULTIPARAS_PARIDAS": 27.36,
+      "PRECO_PESO_cerquilha_MULTIPARA_PARIDA": 2.39,
+      "PRECO_PESO_cerquilha_NULIPARAS": 9.21,
+      "PRECO_PESO_cerquilha_PRIMIPARAS_PARIDAS": 12.31,
+      "PRECO_ARROBA_cerquilha_BOVINOS": 12.71,
+      "PRECO_PESO_cerquilha_PRIMIPARA_PARIDA": 123.41,
+      "PRECO_cerquilha_PRIMIPARAS_PARIDAS": 82.31,
+      "PRECO_cerquilha_NULIPARAS": 276.09,
+      "PRECO_cerquilha_MULTIPARA_PARIDA": 2637.18,
+      "PRECO_ARROBA_cerquilha_MULTIPARAS": 19827.38,
+      "PRECO_ARROBA_cerquilha_NULIPARAS": 123.14,
+      "PRECO_ARROBA_cerquilha_MULTIPARAS_PARIDAS": 61.73,
+      "PRECO_ARROBA_cerquilha_MULTIPARA_PARIDA": 2.31,
+      "PRECO_ARROBA_cerquilha_PRIMIPARAS": 456.78,
+      "PESO_cerquilha_BOVINOS": 12.34,
+      "IDADE_cerquilha_BEZERRAS": 90,
+      "PESO_cerquilha_NULIPARAS": 23.13,
+      "PESO_cerquilha_MULTIPARAS_PARIDAS": 187.89,
+      "PESO_cerquilha_MULTIPARAS": 23.89,
+      "IDADE_cerquilha_PRIMIPARAS": 123,
+      "IDADE_cerquilha_BOVINOS": 720,
+      "PRECO_cerquilha_MULTIPARAS": 276.12,
+      "CARCACA_cerquilha_MULTIPARAS": 172.3,
+      "CO2EQ_PESO_cerquilha_BOVINOS": 31273.87,
+      "CUSTO_FIXO_cerquilha_BOVINOS": 12.34,
+      "CO2EQ_PESO_cerquilha_PRIMIPARAS": 2.31,
+      "CO2EQ_PESO_cerquilha_NULIPARAS": 123.77,
+      "CARCACA_cerquilha_MATRIZES": 72.68,
+      "CARCACA_cerquilha_MULTIPARAS_PARIDAS": 82.37,
+      "CARCACA_cerquilha_MULTIPARA_PARIDA": 21.34,
+      "CARCACA_cerquilha_PRIMIPARAS": 12331.24,
+      "CARCACA_cerquilha_PRIMIPARAS_PARIDAS": 128.32,
+      "CO2EQ_cerquilha_BOVINOS": 89.8,
+      "PRECO_cerquilha_MATRIZES": 6.79,
+      "PESO_cerquilha_PRIMIPARA_PARIDA": 827.89,
+      "PESO_cerquilha_PRIMIPARAS_PARIDAS": 1.24,
+      "PESO_cerquilha_PRIMIPARAS": 90.86,
+      "CO2EQ_cerquilha_NULIPARAS": 91.82,
+      "IDADE_cerquilha_BEZERROS": 68,
+      "PESO_cerquilha_BEZERROS": 3.21,
+      "PESO_cerquilha_RACAO": 7.29,
+      "CO2EQ_cerquilha_RACAO": 123.41,
+      "CO2EQ_PESO_cerquilha_RACAO": 12.34,
+      "PRECO_cerquilha_BOVINOS": 98.72,
+      "CO2EQ_cerquilha_AREA": 686.54,
+      "PESO_cerquilha_MULTIPARA_PARIDA": 82.39,
+      "PRECO_cerquilha_PRIMIPARAS": 21.18,
+      "PRECO_cerquilha_RACAO": 13.26,
+      "CARCACA_cerquilha_PRIMIPARA_PARIDA": 2837.81,
+      "CARCACA_cerquilha_NULIPARAS": 12.38,
+      "PESO_cerquilha_MATRIZES": 976.31,
+      "PRECO_ARROBA_cerquilha_MATRIZES": 23.12,
+      "PRECO_ARROBA_cerquilha_RACAO": 1.23,
+      "PRECO_PESO_cerquilha_AREA": 123.41,
+      "PRECO_PESO_cerquilha_PRIMIPARAS": 12.34,
+      "MASSA_SECA_cerquilha_RACAO": 72.61,
+      "CARCACA_cerquilha_RACAO": 1233.41,
+      "PRECO_cerquilha_MULTIPARAS_PARIDAS": 1231.23,
+      "CARCACA_cerquilha_BOVINOS": 129
+    },
+    "resources": {
+      "Bezerras desmamadas": {
+        "unit": "cab",
+        "category": "BOVINOS"
+      },
+      "Bezerras recriadas na seca": {
+        "unit": "cab",
+        "category": "BOVINOS"
+      },
+      "Bezerras recriadas nas águas": {
+        "unit": "cab",
+        "category": "BOVINOS"
+      },
+      "Bezerros desmamados": {
+        "unit": "cab",
+        "category": "BOVINOS"
+      },
+      "Bezerros recriados na seca": {
+        "unit": "cab",
+        "category": "BOVINOS"
+      },
+      "Bezerros recriados nas águas": {
+        "unit": "cab",
+        "category": "BOVINOS"
+      },
+      "Bois gordos": {
+        "unit": "cab",
+        "category": "BOVINOS"
+      },
+      "Multíparas paridas após a monta": {
+        "unit": "cab",
+        "category": "BOVINOS"
+      },
+      "Multíparas paridas após diagnóstico de prenhez": {
+        "unit": "cab",
+        "category": "BOVINOS"
+      },
+      "Multíparas paridas após puerpério": {
+        "unit": "cab",
+        "category": "BOVINOS"
+      },
+      "Multíparas recém-paridas": {
+        "unit": "cab",
+        "category": "BOVINOS"
+      },
+      "Multíparas solteiras após a monta": {
+        "unit": "cab",
+        "category": "BOVINOS"
+      },
+      "Multíparas solteiras após puerpério": {
+        "unit": "cab",
+        "category": "BOVINOS"
+      },
+      "Multíparas solteiras prenhes": {
+        "unit": "cab",
+        "category": "BOVINOS"
+      },
+      "Multíparas solteiras vazias descartadas": {
+        "unit": "cab",
+        "category": "BOVINOS"
+      },
+      "Multíparas solteiras vazias gordas": {
+        "unit": "cab",
+        "category": "BOVINOS"
+      },
+      "Multíparas solteiras vazias": {
+        "unit": "cab",
+        "category": "BOVINOS"
+      },
+      "Nulíparas após a monta": {
+        "unit": "cab",
+        "category": "BOVINOS"
+      },
+      "Nulíparas prenhes": {
+        "unit": "cab",
+        "category": "BOVINOS"
+      },
+      "Nulíparas prontas para a monta": {
+        "unit": "cab",
+        "category": "BOVINOS"
+      },
+      "Nulíparas recriadas na seca": {
+        "unit": "cab",
+        "category": "BOVINOS"
+      },
+      "Nulíparas vazias descartadas": {
+        "unit": "cab",
+        "category": "BOVINOS"
+      },
+      "Nulíparas vazias gordas": {
+        "unit": "cab",
+        "category": "BOVINOS"
+      },
+      "Primíparas paridas após a monta": {
+        "unit": "cab",
+        "category": "BOVINOS"
+      },
+      "Primíparas paridas após diagnóstico de prenhez": {
+        "unit": "cab",
+        "category": "BOVINOS"
+      },
+      "Primíparas prenhes após aleitamento": {
+        "unit": "cab",
+        "category": "BOVINOS"
+      },
+      "Primíparas solteiras após puerpério": {
+        "unit": "cab",
+        "category": "BOVINOS"
+      },
+      "Primíparas solteiras vazias descartadas": {
+        "unit": "cab",
+        "category": "BOVINOS"
+      },
+      "Primíparas solteiras vazias gordas": {
+        "unit": "cab",
+        "category": "BOVINOS"
+      },
+      "Primíparas solteiras vazias reservadas": {
+        "unit": "cab",
+        "category": "BOVINOS"
+      }
+    },
+    "formulas": {
+      "nodes": [
+        "0",
+        "AREA_PRODUCAO + PRECO_PESO#RACAO + PRECO_PESO#AREA + PRECO_PESO#BOVINOS + PESO#BOVINOS + CARCACA#BOVINOS + PRECO#BOVINOS + PESO#RACAO + MASSA_SECA#RACAO + DIA_REBANHO + CUSTO_FIXO#BOVINOS + PRECO_ARROBA#BOVINOS + PESO#BEZERROS + PESO#BEZERRAS ",
+        "PRECO#AREA + PRECO_PESO#MULTIPARAS_PARIDAS + PESO#AREA + PRECO_ARROBA#AREA + CARCACA#AREA + PRECO#RACAO + PRECO_PESO#PRIMIPARAS_PARIDAS + PRECO_ARROBA#RACAO + CARCACA#RACAO + IDADE#BOVINOS + PRECO#MATRIZES ",
+        "PESO#MATRIZES + PRECO_PESO#NULIPARAS + PRECO_ARROBA#MATRIZES + CARCACA#MATRIZES + PRECO#MULTIPARA_PARIDA + PESO#MULTIPARA_PARIDA + PRECO_PESO#PRIMIPARA_PARIDA",
+        "PRECO_ARROBA#MULTIPARA_PARIDA + CARCACA#MULTIPARA_PARIDA + PRECO#MULTIPARAS + PESO#MULTIPARAS + PRECO_ARROBA#MULTIPARAS",
+        "CARCACA#MULTIPARAS + PRECO#NULIPARAS + PESO#NULIPARAS + PRECO_ARROBA#NULIPARAS + CARCACA#NULIPARAS + PRECO#PRIMIPARA_PARIDA + PESO#PRIMIPARA_PARIDA",
+        "PRECO_ARROBA#PRIMIPARA_PARIDA + CARCACA#PRIMIPARA_PARIDA + PRECO#PRIMIPARAS_PARIDAS + PRECO#PRIMIPARAS + PESO#MULTIPARAS_PARIDAS + CARCACA#PRIMIPARAS",
+        "PRECO_PESO#PRIMIPARAS + PESO#PRIMIPARAS + PRECO_ARROBA#PRIMIPARAS_PARIDAS + IDADE#BEZERROS + IDADE#BEZERRAS + IDADE#PRIMIPARAS + CO2EQ#BOVINOS + CO2EQ#NULIPARAS + CO2EQ_PESO#NULIPARAS",
+        "CARCACA#PRIMIPARAS_PARIDAS + PRECO_PESO#MATRIZES + PRECO#MULTIPARAS_PARIDAS + PRECO_ARROBA#PRIMIPARAS + PESO#PRIMIPARAS_PARIDAS",
+        "PRECO_ARROBA#MULTIPARAS_PARIDAS + CARCACA#MULTIPARAS_PARIDAS +  + CO2EQ#PRIMIPARAS + CO2EQ_PESO#PRIMIPARAS ",
+        "CO2EQ_PESO#BOVINOS + CO2EQ#AREA + CO2EQ_PESO#AREA + PRECO_PESO#MULTIPARAS +  + CO2EQ#RACAO + CO2EQ_PESO#RACAO  + PRECO_PESO#MULTIPARA_PARIDA",
+        "30",
+        "60",
+        "90",
+        "110",
+        "150",
+        "180",
+        "210",
+        "240"
+      ],
+      "flows": [
+        "1",
+        "AREA_PRODUCAO + PRECO_PESO#RACAO + PRECO_PESO#AREA + PRECO_PESO#BOVINOS + PESO#BOVINOS + CARCACA#BOVINOS + PRECO#BOVINOS + PESO#RACAO + MASSA_SECA#RACAO + DIA_REBANHO + CUSTO_FIXO#BOVINOS + PRECO_ARROBA#BOVINOS + PESO#BEZERROS + PESO#BEZERRAS ",
+        "PRECO#AREA + PRECO_PESO#MULTIPARAS_PARIDAS + PESO#AREA + PRECO_ARROBA#AREA + CARCACA#AREA + PRECO#RACAO + PRECO_PESO#PRIMIPARAS_PARIDAS + PRECO_ARROBA#RACAO + CARCACA#RACAO + IDADE#BOVINOS + PRECO#MATRIZES ",
+        "PESO#MATRIZES + PRECO_PESO#NULIPARAS + PRECO_ARROBA#MATRIZES + CARCACA#MATRIZES + PRECO#MULTIPARA_PARIDA + PESO#MULTIPARA_PARIDA + PRECO_PESO#PRIMIPARA_PARIDA",
+        "PRECO_ARROBA#MULTIPARA_PARIDA + CARCACA#MULTIPARA_PARIDA + PRECO#MULTIPARAS + PESO#MULTIPARAS + PRECO_ARROBA#MULTIPARAS",
+        "CARCACA#MULTIPARAS + PRECO#NULIPARAS + PESO#NULIPARAS + PRECO_ARROBA#NULIPARAS + CARCACA#NULIPARAS + PRECO#PRIMIPARA_PARIDA + PESO#PRIMIPARA_PARIDA",
+        "PRECO_ARROBA#PRIMIPARA_PARIDA + CARCACA#PRIMIPARA_PARIDA + PRECO#PRIMIPARAS_PARIDAS + PRECO#PRIMIPARAS + PESO#MULTIPARAS_PARIDAS + CARCACA#PRIMIPARAS",
+        "PRECO_PESO#PRIMIPARAS + PESO#PRIMIPARAS + PRECO_ARROBA#PRIMIPARAS_PARIDAS + IDADE#BEZERROS + IDADE#BEZERRAS + IDADE#PRIMIPARAS + CO2EQ#BOVINOS + CO2EQ#NULIPARAS + CO2EQ_PESO#NULIPARAS",
+        "CARCACA#PRIMIPARAS_PARIDAS + PRECO_PESO#MATRIZES + PRECO#MULTIPARAS_PARIDAS + PRECO_ARROBA#PRIMIPARAS + PESO#PRIMIPARAS_PARIDAS",
+        "PRECO_ARROBA#MULTIPARAS_PARIDAS + CARCACA#MULTIPARAS_PARIDAS +  + CO2EQ#PRIMIPARAS + CO2EQ_PESO#PRIMIPARAS ",
+        "CO2EQ_PESO#BOVINOS + CO2EQ#AREA + CO2EQ_PESO#AREA + PRECO_PESO#MULTIPARAS +  + CO2EQ#RACAO + CO2EQ_PESO#RACAO  + PRECO_PESO#MULTIPARA_PARIDA",
+        "5",
+        "31",
+        "11",
+        "23",
+        "29",
+        "11",
+        "5",
+        "29",
+        "100",
+        "23",
+        "41",
+        "17",
+        "100",
+        "2",
+        "3",
+        "7",
+        "19",
+        "13",
+        "17"
+      ]
+    },
+    "stagesHierarchy": {
+      "(nenhuma)": {
+        "color": "white",
+        "label": null
+      },
+      "Aleitamento": {
+        "color": "lavender",
+        "label": "Al"
+      },
+      "Compra de animais": {
+        "color": "lightgray",
+        "label": "Co"
+      },
+      "Diagnóstico de prenhez": {
+        "color": "gold",
+        "label": "Di"
+      },
+      "Engorda a pasto": {
+        "color": "beige",
+        "label": "En"
+      },
+      "Gestação": {
+        "color": "pink",
+        "label": "Ge"
+      },
+      "Monta natural": {
+        "color": "plum",
+        "label": "Mo"
+      },
+      "Puerpério": {
+        "color": "yellow",
+        "label": "Pu"
+      },
+      "Recria na seca": {
+        "color": "orange",
+        "label": "Se"
+      },
+      "Recria nas águas": {
+        "color": "paleturquoise",
+        "label": "Ag"
+      },
+      "Reserva de animais": {
+        "color": "khaki",
+        "label": "Re"
+      },
+      "Terminação em confinamento": {
+        "color": "cyan",
+        "label": "Te"
+      },
+      "Venda de animais": {
+        "color": "salmon",
+        "label": "Ve"
+      }
+    },
+    "stock": null,
+    "categoriesResourceHierarchy": null,
+    "calculatedIndicators": null,
+    "indicatorsToCalculate": null
+  },
+  "resultQuery": null
+}
